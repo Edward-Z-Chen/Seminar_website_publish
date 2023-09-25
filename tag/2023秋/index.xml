@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023秋 | 北京大学青年应用数学讨论班</title>
-    <link>https://example.com/tag/2023%E7%A7%8B/</link>
-      <atom:link href="https://example.com/tag/2023%E7%A7%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://edward-z-chen.github.io/Seminar_website_publish/tag/2023%E7%A7%8B/</link>
+      <atom:link href="https://edward-z-chen.github.io/Seminar_website_publish/tag/2023%E7%A7%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>2023秋</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Thu, 21 Sep 2023 12:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://edward-z-chen.github.io/Seminar_website_publish/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2023秋</title>
-      <link>https://example.com/tag/2023%E7%A7%8B/</link>
+      <link>https://edward-z-chen.github.io/Seminar_website_publish/tag/2023%E7%A7%8B/</link>
     </image>
     
     <item>
       <title>网络宽度对深度学习几何图景的重塑机制</title>
-      <link>https://example.com/talk/%E7%BD%91%E7%BB%9C%E5%AE%BD%E5%BA%A6%E5%AF%B9%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%87%A0%E4%BD%95%E5%9B%BE%E6%99%AF%E7%9A%84%E9%87%8D%E5%A1%91%E6%9C%BA%E5%88%B6/</link>
+      <link>https://edward-z-chen.github.io/Seminar_website_publish/talk/%E7%BD%91%E7%BB%9C%E5%AE%BD%E5%BA%A6%E5%AF%B9%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%87%A0%E4%BD%95%E5%9B%BE%E6%99%AF%E7%9A%84%E9%87%8D%E5%A1%91%E6%9C%BA%E5%88%B6/</link>
       <pubDate>Thu, 21 Sep 2023 12:30:00 +0000</pubDate>
-      <guid>https://example.com/talk/%E7%BD%91%E7%BB%9C%E5%AE%BD%E5%BA%A6%E5%AF%B9%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%87%A0%E4%BD%95%E5%9B%BE%E6%99%AF%E7%9A%84%E9%87%8D%E5%A1%91%E6%9C%BA%E5%88%B6/</guid>
+      <guid>https://edward-z-chen.github.io/Seminar_website_publish/talk/%E7%BD%91%E7%BB%9C%E5%AE%BD%E5%BA%A6%E5%AF%B9%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%87%A0%E4%BD%95%E5%9B%BE%E6%99%AF%E7%9A%84%E9%87%8D%E5%A1%91%E6%9C%BA%E5%88%B6/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     希望老师、同学们填写下方问卷，完成报名，我们将提供午餐
